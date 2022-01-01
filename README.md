@@ -1,5 +1,7 @@
 # Film Review & Revenue Predictor
 
+## Site is now live! Please follow this link: [Film-predictor](https://film-predict.herokuapp.com/)
+
 ## Background
 
 Producers pitch movie ideas to studios in hopes of making the next blockbuster, or movie theatres may need to know which film will have a higher probability of positive reception. Traditionally producing or hosting a blockbuster film was more art than science.
